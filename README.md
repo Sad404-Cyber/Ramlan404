@@ -27,15 +27,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cidro404-Cyber"><img src="https://github-readme-stats.vercel.app/api?username=Ramlan404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/Sad404-Cyber"><img src="https://github-readme-stats.vercel.app/api?username=Sad404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cidro404-Cyber"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramlan404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/Sad404-Cyber"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sad404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cidro404-Cyber/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramlan404&theme=onedark" /></a>
+  <a href="https://github.com/Sad404-Cyber/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramlan404&theme=onedark" /></a>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/c/RamlanChannel21"><img src="https://img.shields.io/badge/YouTube-Ramlan%20ID-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/RamlanChannel21" /></a>
-  <a href="mailto:ramlangans666@gmail.com"><img src="https://img.shields.io/badge/Gmail-@babybot-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:ramlangans666@gmail.com" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ramlan404&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://youtube.com/c/ItsmeAbdillah"><img src="https://img.shields.io/badge/YouTube-Itsme%20Abdillah-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/ItsmeAbdillah" /></a>
+  <a href="mailto: abdillahhafidz46@gmail.com"><img src="https://img.shields.io/badge/Gmail-@Abdillah-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto: abdillahhafidz46@gmail.com" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sad404&label=VIEWS&style=flat-square&color=orange" />
 </p>
