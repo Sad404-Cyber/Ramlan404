@@ -1,14 +1,14 @@
-<h1 align="center">Hallo Gays <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Ramlan ID was here...</h1>
+<h1 align="center">Hiii guys <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'am Hafidz Abdillah</h1>
 
 <p align="center">
   <img src="https://i.ibb.co/Tv6JR98/baby.jpg" />
 </p>
 
-<p align='center'><a href="https://instagram.com/iamramlan_"><img height="200" src="https://github.com/Ramlan404/Ramlan404/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/hafidzabdillh_"><img height="200" src="https://github.com/Ramlan404/Ramlan404/blob/main/pacar.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 
 <p align='center'>
-   <a href="https://instagram.com/iamramlan_"><img height="30" src="https://github.com/Ramlan404/Ramlan404/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/ramlan.redfield.3"><img height="30" src="https://github.com/Ramlan404/Ramlan404/blob/main/facebook.png?raw=true"></a>
+   <a href="https://instagram.com/hafidzabdillh_"><img height="30" src="https://github.com/Cidro404-Cyber/Cidro404-Cyber/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/hafidzabdillah"><img height="30" src="https://github.com/Cidro404-Cyber/Cidro404-Cyber/blob/main/facebook.png?raw=true"></a>
 </P>
 
 <p align="center">
@@ -27,15 +27,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ramlan404"><img src="https://github-readme-stats.vercel.app/api?username=Ramlan404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/Cidro404-Cyber"><img src="https://github-readme-stats.vercel.app/api?username=Ramlan404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ramlan404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramlan404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/Cidro404-Cyber"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramlan404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ramlan404/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramlan404&theme=onedark" /></a>
+  <a href="https://github.com/Cidro404-Cyber/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramlan404&theme=onedark" /></a>
 </p>
 
 <p align="center">
